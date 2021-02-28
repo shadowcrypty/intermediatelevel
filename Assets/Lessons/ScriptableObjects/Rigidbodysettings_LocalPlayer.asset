@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bf418e5dd68533a4b89a9233379e6128, type: 3}
-  m_Name: Rigidbodysettings_default
+  m_Name: Rigidbodysettings_LocalPlayer
   m_EditorClassIdentifier: 
   _jumpforce: {x: 0, y: 2, z: 0}
